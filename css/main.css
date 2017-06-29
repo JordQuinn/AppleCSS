@@ -1,0 +1,24 @@
+.nav-ul {
+	display: flex;
+	justify-content: space-around;
+	list-style: none;
+	border:1px solid black;
+	color: white;
+	background-color: black;
+}
+
+.header-intro {
+	display: flex;
+	flex-direction: column;
+	margin: 100px;
+}
+
+.header-links{
+	display: flex;
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+	color:black;
+}
